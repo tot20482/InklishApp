@@ -1,0 +1,6 @@
+flask
+Pillow
+torch
+tensorflow
+ultralytics
+seaborn
